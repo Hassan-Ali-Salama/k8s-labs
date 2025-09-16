@@ -18,7 +18,7 @@ This task required:
 ---
 
 # Task 2
-[➡️ Go to Task 2 files]([./Task2](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/Task2))
+[➡️ Go to Task 2 files](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/Task2)
 
 **Description:**  
 This task required:  
@@ -29,7 +29,7 @@ This task required:
 ---
 
 # Task 3
-[➡️ Go to Task 3 files]([./Task3](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/Task3))
+[➡️ Go to Task 3 files](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/Task3)
 
 **Description:**  
 This task required:  
@@ -40,7 +40,7 @@ This task required:
 ---
 
 # Task 4
-[➡️ Go to Task 4 files]([./Task4](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/Task4))
+[➡️ Go to Task 4 files](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/Task4)
 
 **Description:**  
 This task required:  
@@ -53,7 +53,7 @@ This task required:
 ---
 
 # Task 5
-[➡️ Go to Task 5 files]([./Task5](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/Task5))
+[➡️ Go to Task 5 files](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/Task5)
 
 **Description:**  
 This task required:  
@@ -68,7 +68,7 @@ This task required:
 
 # Extra Files
 
-There is a folder named [AllYamlsFiles]([./AllYamlsFiles](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/AllYamlsFiles)) that contains all the YAML files you may need to practice Kubernetes.
+There is a folder named [AllYamlsFiles](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/AllYamlsFiles)) that contains all the YAML files you may need to practice Kubernetes.
 These files were created by [Eng. Abanob Ayad.](https://github.com/AbanobAyad22)
 
 [👉 Go to the repo for these files](https://github.com/AbanobAyad22/kubernetes-course) 
