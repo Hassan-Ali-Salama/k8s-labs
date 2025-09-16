@@ -5,7 +5,7 @@
 ---
 
 # Task 1
-[➡️ Go to Task 1 files]([./Task1](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/Task1))
+[➡️ Go to Task 1 files](https://github.com/Hassan-Ali-Salama/k8s-labs/tree/main/Task1)
 
 **Description:**  
 This task required:  
