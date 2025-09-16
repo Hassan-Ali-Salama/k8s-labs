@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: frontend
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      ahmed: dd
+# POd defination
+  template:
+    metadata:
+      labels:
+        ahmed: dd
+    spec:
+      containers:
+      - name: ninx
+        image: nginx
+        

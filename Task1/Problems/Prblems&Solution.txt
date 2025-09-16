@@ -1,0 +1,17 @@
+
+المشكلة كانت : هي اني مكنتش فاهم pv و pvc و بيشتغلوا ازي 
+
+الحل :سمعت الفيديو ده https://youtu.be/0swOh5C3OVM?si=h3W3OEOYPcTfwKcK
+
+
+---
+
+المشكلة كانت : كانت ملف الindex مش بيروح لي nginx مع اني عامل pv صح 
+
+الحل : اعطاء الصلحيات لي الملف كا الاتي 
+
+sudo chown -R 101:101 /home/kali/Desktop/Task-Kubernets/Task1/mint/data
+sudo chmod -R 755 /home/kali/Desktop/Task-Kubernets/Task1/mint/data
+
+
+

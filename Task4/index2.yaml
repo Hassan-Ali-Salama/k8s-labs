@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: index-html2
+data:
+  index.html: |
+    Welcome from nginx 2
+
+
+
+
+# k create -f index.yaml
+

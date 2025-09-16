@@ -1,0 +1,24 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx
+  labels:
+    app.kubernetes.io/name: MyApp
+spec:
+  containers:
+  - name: nginx
+    image: nginx
+    ports:
+      - containerPort: 80
+    volumeMounts:
+    - name: content-volume
+      mountPath: /usr/share/nginx/html
+    - name: config-volume
+      mountPath: /etc/nginx/conf.d
+  volumes:
+  - name: content-volume
+    persistentVolumeClaim:
+      claimName: pvc-example
+  - name: config-volume
+    configMap:
+      name: my-con

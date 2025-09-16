@@ -1,0 +1,7 @@
+Q: try to delete one pod and tell what happend 
+A: A new pod will be created with a different name and IP 
+
+---
+
+Q: tell the differance between the replicasets and deployments
+A: With a Deployment, if we do an upgrade and a pod fails for any reason, we can roll back and get the old version.
